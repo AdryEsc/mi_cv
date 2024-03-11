@@ -1,0 +1,29 @@
+/* Clase para el cuerpo */
+body{
+    background-color: black;
+    color: white;
+}
+
+/* Clase para la cabecera */
+.cabecera{
+background-color: green;
+border: solid 1px green;
+margin: 0px;
+padding: 50px;
+}
+
+/* Clase para el pie de pagina */
+.pie{
+    background-color: burlywood;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.div-enlaces{
+    padding: auto;
+    border: solid 1px white;
+}
+
+.enlaces{
+    margin-left: 10px;
+}
